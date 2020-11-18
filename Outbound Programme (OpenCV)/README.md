@@ -11,8 +11,9 @@
 1. "The function is not implemented. Rebuild the library with Windows" -> Solved through https://stackoverflow.com/questions/50783177/opencv-the-function-is-not-implemented-rebuild-the-library-with-windows
 2. "cv2 python has no imread/imshow member" -> Solved through https://stackoverflow.com/questions/51593147/cv2-python-has-no-imread-member
 3. dlib installation -> Possible solutions (still not found)
-   https://medium.com/analytics-vidhya/how-to-install-dlib-library-for-python-in-windows-10-57348ba1117f
-   https://stackoverflow.com/questions/41912372/dlib-installation-on-windows-10
+   - https://medium.com/analytics-vidhya/how-to-install-dlib-library-for-python-in-windows-10-57348ba1117f
+   - https://stackoverflow.com/questions/41912372/dlib-installation-on-windows-10
+   - https://stackoverflow.com/questions/58527486/not-able-to-install-dlib-on-windows-10-and-python-3-7
 
 ## Things Learned Outline
 
